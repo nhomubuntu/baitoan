@@ -1,674 +1,226 @@
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
-
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
- Everyone is permitted to copy and distribute verbatim copies
- of this license document, but changing it is not allowed.
-
-                            Preamble
-
-  The GNU General Public License is a free, copyleft license for
-software and other kinds of works.
-
-  The licenses for most software and other practical works are designed
-to take away your freedom to share and change the works.  By contrast,
-the GNU General Public License is intended to guarantee your freedom to
-share and change all versions of a program--to make sure it remains free
-software for all its users.  We, the Free Software Foundation, use the
-GNU General Public License for most of our software; it applies also to
-any other work released this way by its authors.  You can apply it to
-your programs, too.
-
-  When we speak of free software, we are referring to freedom, not
-price.  Our General Public Licenses are designed to make sure that you
-have the freedom to distribute copies of free software (and charge for
-them if you wish), that you receive source code or can get it if you
-want it, that you can change the software or use pieces of it in new
-free programs, and that you know you can do these things.
-
-  To protect your rights, we need to prevent others from denying you
-these rights or asking you to surrender the rights.  Therefore, you have
-certain responsibilities if you distribute copies of the software, or if
-you modify it: responsibilities to respect the freedom of others.
-
-  For example, if you distribute copies of such a program, whether
-gratis or for a fee, you must pass on to the recipients the same
-freedoms that you received.  You must make sure that they, too, receive
-or can get the source code.  And you must show them these terms so they
-know their rights.
-
-  Developers that use the GNU GPL protect your rights with two steps:
-(1) assert copyright on the software, and (2) offer you this License
-giving you legal permission to copy, distribute and/or modify it.
-
-  For the developers' and authors' protection, the GPL clearly explains
-that there is no warranty for this free software.  For both users' and
-authors' sake, the GPL requires that modified versions be marked as
-changed, so that their problems will not be attributed erroneously to
-authors of previous versions.
-
-  Some devices are designed to deny users access to install or run
-modified versions of the software inside them, although the manufacturer
-can do so.  This is fundamentally incompatible with the aim of
-protecting users' freedom to change the software.  The systematic
-pattern of such abuse occurs in the area of products for individuals to
-use, which is precisely where it is most unacceptable.  Therefore, we
-have designed this version of the GPL to prohibit the practice for those
-products.  If such problems arise substantially in other domains, we
-stand ready to extend this provision to those domains in future versions
-of the GPL, as needed to protect the freedom of users.
-
-  Finally, every program is threatened constantly by software patents.
-States should not allow patents to restrict development and use of
-software on general-purpose computers, but in those that do, we wish to
-avoid the special danger that patents applied to a free program could
-make it effectively proprietary.  To prevent this, the GPL assures that
-patents cannot be used to render the program non-free.
-
-  The precise terms and conditions for copying, distribution and
-modification follow.
-
-                       TERMS AND CONDITIONS
-
-  0. Definitions.
-
-  "This License" refers to version 3 of the GNU General Public License.
-
-  "Copyright" also means copyright-like laws that apply to other kinds of
-works, such as semiconductor masks.
-
-  "The Program" refers to any copyrightable work licensed under this
-License.  Each licensee is addressed as "you".  "Licensees" and
-"recipients" may be individuals or organizations.
-
-  To "modify" a work means to copy from or adapt all or part of the work
-in a fashion requiring copyright permission, other than the making of an
-exact copy.  The resulting work is called a "modified version" of the
-earlier work or a work "based on" the earlier work.
-
-  A "covered work" means either the unmodified Program or a work based
-on the Program.
-
-  To "propagate" a work means to do anything with it that, without
-permission, would make you directly or secondarily liable for
-infringement under applicable copyright law, except executing it on a
-computer or modifying a private copy.  Propagation includes copying,
-distribution (with or without modification), making available to the
-public, and in some countries other activities as well.
-
-  To "convey" a work means any kind of propagation that enables other
-parties to make or receive copies.  Mere interaction with a user through
-a computer network, with no transfer of a copy, is not conveying.
-
-  An interactive user interface displays "Appropriate Legal Notices"
-to the extent that it includes a convenient and prominently visible
-feature that (1) displays an appropriate copyright notice, and (2)
-tells the user that there is no warranty for the work (except to the
-extent that warranties are provided), that licensees may convey the
-work under this License, and how to view a copy of this License.  If
-the interface presents a list of user commands or options, such as a
-menu, a prominent item in the list meets this criterion.
-
-  1. Source Code.
-
-  The "source code" for a work means the preferred form of the work
-for making modifications to it.  "Object code" means any non-source
-form of a work.
-
-  A "Standard Interface" means an interface that either is an official
-standard defined by a recognized standards body, or, in the case of
-interfaces specified for a particular programming language, one that
-is widely used among developers working in that language.
-
-  The "System Libraries" of an executable work include anything, other
-than the work as a whole, that (a) is included in the normal form of
-packaging a Major Component, but which is not part of that Major
-Component, and (b) serves only to enable use of the work with that
-Major Component, or to implement a Standard Interface for which an
-implementation is available to the public in source code form.  A
-"Major Component", in this context, means a major essential component
-(kernel, window system, and so on) of the specific operating system
-(if any) on which the executable work runs, or a compiler used to
-produce the work, or an object code interpreter used to run it.
-
-  The "Corresponding Source" for a work in object code form means all
-the source code needed to generate, install, and (for an executable
-work) run the object code and to modify the work, including scripts to
-control those activities.  However, it does not include the work's
-System Libraries, or general-purpose tools or generally available free
-programs which are used unmodified in performing those activities but
-which are not part of the work.  For example, Corresponding Source
-includes interface definition files associated with source files for
-the work, and the source code for shared libraries and dynamically
-linked subprograms that the work is specifically designed to require,
-such as by intimate data communication or control flow between those
-subprograms and other parts of the work.
-
-  The Corresponding Source need not include anything that users
-can regenerate automatically from other parts of the Corresponding
-Source.
-
-  The Corresponding Source for a work in source code form is that
-same work.
-
-  2. Basic Permissions.
-
-  All rights granted under this License are granted for the term of
-copyright on the Program, and are irrevocable provided the stated
-conditions are met.  This License explicitly affirms your unlimited
-permission to run the unmodified Program.  The output from running a
-covered work is covered by this License only if the output, given its
-content, constitutes a covered work.  This License acknowledges your
-rights of fair use or other equivalent, as provided by copyright law.
-
-  You may make, run and propagate covered works that you do not
-convey, without conditions so long as your license otherwise remains
-in force.  You may convey covered works to others for the sole purpose
-of having them make modifications exclusively for you, or provide you
-with facilities for running those works, provided that you comply with
-the terms of this License in conveying all material for which you do
-not control copyright.  Those thus making or running the covered works
-for you must do so exclusively on your behalf, under your direction
-and control, on terms that prohibit them from making any copies of
-your copyrighted material outside their relationship with you.
-
-  Conveying under any other circumstances is permitted solely under
-the conditions stated below.  Sublicensing is not allowed; section 10
-makes it unnecessary.
-
-  3. Protecting Users' Legal Rights From Anti-Circumvention Law.
-
-  No covered work shall be deemed part of an effective technological
-measure under any applicable law fulfilling obligations under article
-11 of the WIPO copyright treaty adopted on 20 December 1996, or
-similar laws prohibiting or restricting circumvention of such
-measures.
-
-  When you convey a covered work, you waive any legal power to forbid
-circumvention of technological measures to the extent such circumvention
-is effected by exercising rights under this License with respect to
-the covered work, and you disclaim any intention to limit operation or
-modification of the work as a means of enforcing, against the work's
-users, your or third parties' legal rights to forbid circumvention of
-technological measures.
-
-  4. Conveying Verbatim Copies.
-
-  You may convey verbatim copies of the Program's source code as you
-receive it, in any medium, provided that you conspicuously and
-appropriately publish on each copy an appropriate copyright notice;
-keep intact all notices stating that this License and any
-non-permissive terms added in accord with section 7 apply to the code;
-keep intact all notices of the absence of any warranty; and give all
-recipients a copy of this License along with the Program.
-
-  You may charge any price or no price for each copy that you convey,
-and you may offer support or warranty protection for a fee.
-
-  5. Conveying Modified Source Versions.
-
-  You may convey a work based on the Program, or the modifications to
-produce it from the Program, in the form of source code under the
-terms of section 4, provided that you also meet all of these conditions:
-
-    a) The work must carry prominent notices stating that you modified
-    it, and giving a relevant date.
-
-    b) The work must carry prominent notices stating that it is
-    released under this License and any conditions added under section
-    7.  This requirement modifies the requirement in section 4 to
-    "keep intact all notices".
-
-    c) You must license the entire work, as a whole, under this
-    License to anyone who comes into possession of a copy.  This
-    License will therefore apply, along with any applicable section 7
-    additional terms, to the whole of the work, and all its parts,
-    regardless of how they are packaged.  This License gives no
-    permission to license the work in any other way, but it does not
-    invalidate such permission if you have separately received it.
-
-    d) If the work has interactive user interfaces, each must display
-    Appropriate Legal Notices; however, if the Program has interactive
-    interfaces that do not display Appropriate Legal Notices, your
-    work need not make them do so.
-
-  A compilation of a covered work with other separate and independent
-works, which are not by their nature extensions of the covered work,
-and which are not combined with it such as to form a larger program,
-in or on a volume of a storage or distribution medium, is called an
-"aggregate" if the compilation and its resulting copyright are not
-used to limit the access or legal rights of the compilation's users
-beyond what the individual works permit.  Inclusion of a covered work
-in an aggregate does not cause this License to apply to the other
-parts of the aggregate.
-
-  6. Conveying Non-Source Forms.
-
-  You may convey a covered work in object code form under the terms
-of sections 4 and 5, provided that you also convey the
-machine-readable Corresponding Source under the terms of this License,
-in one of these ways:
-
-    a) Convey the object code in, or embodied in, a physical product
-    (including a physical distribution medium), accompanied by the
-    Corresponding Source fixed on a durable physical medium
-    customarily used for software interchange.
-
-    b) Convey the object code in, or embodied in, a physical product
-    (including a physical distribution medium), accompanied by a
-    written offer, valid for at least three years and valid for as
-    long as you offer spare parts or customer support for that product
-    model, to give anyone who possesses the object code either (1) a
-    copy of the Corresponding Source for all the software in the
-    product that is covered by this License, on a durable physical
-    medium customarily used for software interchange, for a price no
-    more than your reasonable cost of physically performing this
-    conveying of source, or (2) access to copy the
-    Corresponding Source from a network server at no charge.
-
-    c) Convey individual copies of the object code with a copy of the
-    written offer to provide the Corresponding Source.  This
-    alternative is allowed only occasionally and noncommercially, and
-    only if you received the object code with such an offer, in accord
-    with subsection 6b.
-
-    d) Convey the object code by offering access from a designated
-    place (gratis or for a charge), and offer equivalent access to the
-    Corresponding Source in the same way through the same place at no
-    further charge.  You need not require recipients to copy the
-    Corresponding Source along with the object code.  If the place to
-    copy the object code is a network server, the Corresponding Source
-    may be on a different server (operated by you or a third party)
-    that supports equivalent copying facilities, provided you maintain
-    clear directions next to the object code saying where to find the
-    Corresponding Source.  Regardless of what server hosts the
-    Corresponding Source, you remain obligated to ensure that it is
-    available for as long as needed to satisfy these requirements.
-
-    e) Convey the object code using peer-to-peer transmission, provided
-    you inform other peers where the object code and Corresponding
-    Source of the work are being offered to the general public at no
-    charge under subsection 6d.
-
-  A separable portion of the object code, whose source code is excluded
-from the Corresponding Source as a System Library, need not be
-included in conveying the object code work.
-
-  A "User Product" is either (1) a "consumer product", which means any
-tangible personal property which is normally used for personal, family,
-or household purposes, or (2) anything designed or sold for incorporation
-into a dwelling.  In determining whether a product is a consumer product,
-doubtful cases shall be resolved in favor of coverage.  For a particular
-product received by a particular user, "normally used" refers to a
-typical or common use of that class of product, regardless of the status
-of the particular user or of the way in which the particular user
-actually uses, or expects or is expected to use, the product.  A product
-is a consumer product regardless of whether the product has substantial
-commercial, industrial or non-consumer uses, unless such uses represent
-the only significant mode of use of the product.
-
-  "Installation Information" for a User Product means any methods,
-procedures, authorization keys, or other information required to install
-and execute modified versions of a covered work in that User Product from
-a modified version of its Corresponding Source.  The information must
-suffice to ensure that the continued functioning of the modified object
-code is in no case prevented or interfered with solely because
-modification has been made.
-
-  If you convey an object code work under this section in, or with, or
-specifically for use in, a User Product, and the conveying occurs as
-part of a transaction in which the right of possession and use of the
-User Product is transferred to the recipient in perpetuity or for a
-fixed term (regardless of how the transaction is characterized), the
-Corresponding Source conveyed under this section must be accompanied
-by the Installation Information.  But this requirement does not apply
-if neither you nor any third party retains the ability to install
-modified object code on the User Product (for example, the work has
-been installed in ROM).
-
-  The requirement to provide Installation Information does not include a
-requirement to continue to provide support service, warranty, or updates
-for a work that has been modified or installed by the recipient, or for
-the User Product in which it has been modified or installed.  Access to a
-network may be denied when the modification itself materially and
-adversely affects the operation of the network or violates the rules and
-protocols for communication across the network.
-
-  Corresponding Source conveyed, and Installation Information provided,
-in accord with this section must be in a format that is publicly
-documented (and with an implementation available to the public in
-source code form), and must require no special password or key for
-unpacking, reading or copying.
-
-  7. Additional Terms.
-
-  "Additional permissions" are terms that supplement the terms of this
-License by making exceptions from one or more of its conditions.
-Additional permissions that are applicable to the entire Program shall
-be treated as though they were included in this License, to the extent
-that they are valid under applicable law.  If additional permissions
-apply only to part of the Program, that part may be used separately
-under those permissions, but the entire Program remains governed by
-this License without regard to the additional permissions.
-
-  When you convey a copy of a covered work, you may at your option
-remove any additional permissions from that copy, or from any part of
-it.  (Additional permissions may be written to require their own
-removal in certain cases when you modify the work.)  You may place
-additional permissions on material, added by you to a covered work,
-for which you have or can give appropriate copyright permission.
-
-  Notwithstanding any other provision of this License, for material you
-add to a covered work, you may (if authorized by the copyright holders of
-that material) supplement the terms of this License with terms:
-
-    a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 15 and 16 of this License; or
-
-    b) Requiring preservation of specified reasonable legal notices or
-    author attributions in that material or in the Appropriate Legal
-    Notices displayed by works containing it; or
-
-    c) Prohibiting misrepresentation of the origin of that material, or
-    requiring that modified versions of such material be marked in
-    reasonable ways as different from the original version; or
-
-    d) Limiting the use for publicity purposes of names of licensors or
-    authors of the material; or
-
-    e) Declining to grant rights under trademark law for use of some
-    trade names, trademarks, or service marks; or
-
-    f) Requiring indemnification of licensors and authors of that
-    material by anyone who conveys the material (or modified versions of
-    it) with contractual assumptions of liability to the recipient, for
-    any liability that these contractual assumptions directly impose on
-    those licensors and authors.
-
-  All other non-permissive additional terms are considered "further
-restrictions" within the meaning of section 10.  If the Program as you
-received it, or any part of it, contains a notice stating that it is
-governed by this License along with a term that is a further
-restriction, you may remove that term.  If a license document contains
-a further restriction but permits relicensing or conveying under this
-License, you may add to a covered work material governed by the terms
-of that license document, provided that the further restriction does
-not survive such relicensing or conveying.
-
-  If you add terms to a covered work in accord with this section, you
-must place, in the relevant source files, a statement of the
-additional terms that apply to those files, or a notice indicating
-where to find the applicable terms.
-
-  Additional terms, permissive or non-permissive, may be stated in the
-form of a separately written license, or stated as exceptions;
-the above requirements apply either way.
-
-  8. Termination.
-
-  You may not propagate or modify a covered work except as expressly
-provided under this License.  Any attempt otherwise to propagate or
-modify it is void, and will automatically terminate your rights under
-this License (including any patent licenses granted under the third
-paragraph of section 11).
-
-  However, if you cease all violation of this License, then your
-license from a particular copyright holder is reinstated (a)
-provisionally, unless and until the copyright holder explicitly and
-finally terminates your license, and (b) permanently, if the copyright
-holder fails to notify you of the violation by some reasonable means
-prior to 60 days after the cessation.
-
-  Moreover, your license from a particular copyright holder is
-reinstated permanently if the copyright holder notifies you of the
-violation by some reasonable means, this is the first time you have
-received notice of violation of this License (for any work) from that
-copyright holder, and you cure the violation prior to 30 days after
-your receipt of the notice.
-
-  Termination of your rights under this section does not terminate the
-licenses of parties who have received copies or rights from you under
-this License.  If your rights have been terminated and not permanently
-reinstated, you do not qualify to receive new licenses for the same
-material under section 10.
-
-  9. Acceptance Not Required for Having Copies.
-
-  You are not required to accept this License in order to receive or
-run a copy of the Program.  Ancillary propagation of a covered work
-occurring solely as a consequence of using peer-to-peer transmission
-to receive a copy likewise does not require acceptance.  However,
-nothing other than this License grants you permission to propagate or
-modify any covered work.  These actions infringe copyright if you do
-not accept this License.  Therefore, by modifying or propagating a
-covered work, you indicate your acceptance of this License to do so.
-
-  10. Automatic Licensing of Downstream Recipients.
-
-  Each time you convey a covered work, the recipient automatically
-receives a license from the original licensors, to run, modify and
-propagate that work, subject to this License.  You are not responsible
-for enforcing compliance by third parties with this License.
-
-  An "entity transaction" is a transaction transferring control of an
-organization, or substantially all assets of one, or subdividing an
-organization, or merging organizations.  If propagation of a covered
-work results from an entity transaction, each party to that
-transaction who receives a copy of the work also receives whatever
-licenses to the work the party's predecessor in interest had or could
-give under the previous paragraph, plus a right to possession of the
-Corresponding Source of the work from the predecessor in interest, if
-the predecessor has it or can get it with reasonable efforts.
-
-  You may not impose any further restrictions on the exercise of the
-rights granted or affirmed under this License.  For example, you may
-not impose a license fee, royalty, or other charge for exercise of
-rights granted under this License, and you may not initiate litigation
-(including a cross-claim or counterclaim in a lawsuit) alleging that
-any patent claim is infringed by making, using, selling, offering for
-sale, or importing the Program or any portion of it.
-
-  11. Patents.
-
-  A "contributor" is a copyright holder who authorizes use under this
-License of the Program or a work on which the Program is based.  The
-work thus licensed is called the contributor's "contributor version".
-
-  A contributor's "essential patent claims" are all patent claims
-owned or controlled by the contributor, whether already acquired or
-hereafter acquired, that would be infringed by some manner, permitted
-by this License, of making, using, or selling its contributor version,
-but do not include claims that would be infringed only as a
-consequence of further modification of the contributor version.  For
-purposes of this definition, "control" includes the right to grant
-patent sublicenses in a manner consistent with the requirements of
-this License.
-
-  Each contributor grants you a non-exclusive, worldwide, royalty-free
-patent license under the contributor's essential patent claims, to
-make, use, sell, offer for sale, import and otherwise run, modify and
-propagate the contents of its contributor version.
-
-  In the following three paragraphs, a "patent license" is any express
-agreement or commitment, however denominated, not to enforce a patent
-(such as an express permission to practice a patent or covenant not to
-sue for patent infringement).  To "grant" such a patent license to a
-party means to make such an agreement or commitment not to enforce a
-patent against the party.
-
-  If you convey a covered work, knowingly relying on a patent license,
-and the Corresponding Source of the work is not available for anyone
-to copy, free of charge and under the terms of this License, through a
-publicly available network server or other readily accessible means,
-then you must either (1) cause the Corresponding Source to be so
-available, or (2) arrange to deprive yourself of the benefit of the
-patent license for this particular work, or (3) arrange, in a manner
-consistent with the requirements of this License, to extend the patent
-license to downstream recipients.  "Knowingly relying" means you have
-actual knowledge that, but for the patent license, your conveying the
-covered work in a country, or your recipient's use of the covered work
-in a country, would infringe one or more identifiable patents in that
-country that you have reason to believe are valid.
-
-  If, pursuant to or in connection with a single transaction or
-arrangement, you convey, or propagate by procuring conveyance of, a
-covered work, and grant a patent license to some of the parties
-receiving the covered work authorizing them to use, propagate, modify
-or convey a specific copy of the covered work, then the patent license
-you grant is automatically extended to all recipients of the covered
-work and works based on it.
-
-  A patent license is "discriminatory" if it does not include within
-the scope of its coverage, prohibits the exercise of, or is
-conditioned on the non-exercise of one or more of the rights that are
-specifically granted under this License.  You may not convey a covered
-work if you are a party to an arrangement with a third party that is
-in the business of distributing software, under which you make payment
-to the third party based on the extent of your activity of conveying
-the work, and under which the third party grants, to any of the
-parties who would receive the covered work from you, a discriminatory
-patent license (a) in connection with copies of the covered work
-conveyed by you (or copies made from those copies), or (b) primarily
-for and in connection with specific products or compilations that
-contain the covered work, unless you entered into that arrangement,
-or that patent license was granted, prior to 28 March 2007.
-
-  Nothing in this License shall be construed as excluding or limiting
-any implied license or other defenses to infringement that may
-otherwise be available to you under applicable patent law.
-
-  12. No Surrender of Others' Freedom.
-
-  If conditions are imposed on you (whether by court order, agreement or
-otherwise) that contradict the conditions of this License, they do not
-excuse you from the conditions of this License.  If you cannot convey a
-covered work so as to satisfy simultaneously your obligations under this
-License and any other pertinent obligations, then as a consequence you may
-not convey it at all.  For example, if you agree to terms that obligate you
-to collect a royalty for further conveying from those to whom you convey
-the Program, the only way you could satisfy both those terms and this
-License would be to refrain entirely from conveying the Program.
-
-  13. Use with the GNU Affero General Public License.
-
-  Notwithstanding any other provision of this License, you have
-permission to link or combine any covered work with a work licensed
-under version 3 of the GNU Affero General Public License into a single
-combined work, and to convey the resulting work.  The terms of this
-License will continue to apply to the part which is the covered work,
-but the special requirements of the GNU Affero General Public License,
-section 13, concerning interaction through a network will apply to the
-combination as such.
-
-  14. Revised Versions of this License.
-
-  The Free Software Foundation may publish revised and/or new versions of
-the GNU General Public License from time to time.  Such new versions will
-be similar in spirit to the present version, but may differ in detail to
-address new problems or concerns.
-
-  Each version is given a distinguishing version number.  If the
-Program specifies that a certain numbered version of the GNU General
-Public License "or any later version" applies to it, you have the
-option of following the terms and conditions either of that numbered
-version or of any later version published by the Free Software
-Foundation.  If the Program does not specify a version number of the
-GNU General Public License, you may choose any version ever published
-by the Free Software Foundation.
-
-  If the Program specifies that a proxy can decide which future
-versions of the GNU General Public License can be used, that proxy's
-public statement of acceptance of a version permanently authorizes you
-to choose that version for the Program.
-
-  Later license versions may give you additional or different
-permissions.  However, no additional obligations are imposed on any
-author or copyright holder as a result of your choosing to follow a
-later version.
-
-  15. Disclaimer of Warranty.
-
-  THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
-APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
-HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
-OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
-THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
-PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
-IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
-ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
-
-  16. Limitation of Liability.
-
-  IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
-WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MODIFIES AND/OR CONVEYS
-THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY
-GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE
-USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF
-DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD
-PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS),
-EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF
-SUCH DAMAGES.
-
-  17. Interpretation of Sections 15 and 16.
-
-  If the disclaimer of warranty and limitation of liability provided
-above cannot be given local legal effect according to their terms,
-reviewing courts shall apply local law that most closely approximates
-an absolute waiver of all civil liability in connection with the
-Program, unless a warranty or assumption of liability accompanies a
-copy of the Program in return for a fee.
-
-                     END OF TERMS AND CONDITIONS
-
-            How to Apply These Terms to Your New Programs
-
-  If you develop a new program, and you want it to be of the greatest
-possible use to the public, the best way to achieve this is to make it
-free software which everyone can redistribute and change under these terms.
-
-  To do so, attach the following notices to the program.  It is safest
-to attach them to the start of each source file to most effectively
-state the exclusion of warranty; and each file should have at least
-the "copyright" line and a pointer to where the full notice is found.
-
-    {one line to give the program's name and a brief idea of what it does.}
-    Copyright (C) {year}  {name of author}
-
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-Also add information on how to contact you by electronic and paper mail.
-
-  If the program does terminal interaction, make it output a short
-notice like this when it starts in an interactive mode:
-
-    {project}  Copyright (C) {year}  {fullname}
-    This program comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
-    This is free software, and you are welcome to redistribute it
-    under certain conditions; type `show c' for details.
-
-The hypothetical commands `show w' and `show c' should show the appropriate
-parts of the General Public License.  Of course, your program's commands
-might be different; for a GUI interface, you would use an "about box".
-
-  You should also get your employer (if you work as a programmer) or school,
-if any, to sign a "copyright disclaimer" for the program, if necessary.
-For more information on this, and how to apply and follow the GNU GPL, see
-<http://www.gnu.org/licenses/>.
-
-  The GNU General Public License does not permit incorporating your program
-into proprietary programs.  If your program is a subroutine library, you
-may consider it more useful to permit linking proprietary applications with
-the library.  If this is what you want to do, use the GNU Lesser General
-Public License instead of this License.  But first, please read
-<http://www.gnu.org/philosophy/why-not-lgpl.html>.
+                    Giấy Phép Công Cộng Chung của GNU
+
+Phiên bản 3, ngày 29 tháng 06 năm 2007
+Copyright © 2007 Free Software Foundation, Inc. http://fsf.org/
+Mọi người đều được phép sao chép và phân phối bản sao nguyên văn của giấy phép này, nhưng thay đổi nó là không được phép.
+
+Lời mở đầu
+
+Giấy phép Công cộng GNU là giấy phép miễn phí, copyleft cho phần mềm và các loại công trình khác.
+
+Giấy phép cho hầu hết phần mềm và các tác phẩm thiết thực khác được thiết kế để lấy đi sự tự do của bạn để chia sẻ và thay đổi tác phẩm. Ngược lại, Giấy phép Công cộng GNU nhằm đảm bảo quyền tự do chia sẻ và thay đổi tất cả các phiên bản của một chương trình - để đảm bảo rằng nó vẫn là phần mềm miễn phí cho tất cả người dùng của nó. Chúng tôi, Tổ chức Phần mềm Tự do, sử dụng Giấy phép Công cộng GNU cho phần lớn các phần mềm của chúng tôi; Nó cũng áp dụng cho bất kỳ tác phẩm nào khác được phát hành theo cách này bởi tác giả của nó. Bạn cũng có thể áp dụng nó vào chương trình của bạn.
+
+Khi nói về phần mềm tự do, chúng ta đang đề cập đến tự do chứ không phải giá cả. Giấy phép Công cộng Chung của chúng tôi được thiết kế để đảm bảo rằng bạn có quyền tự do phân phối các bản sao của phần mềm miễn phí (và tính phí nếu bạn muốn) mà bạn nhận được mã nguồn hoặc có thể lấy nó nếu muốn, để bạn có thể thay đổi phần mềm Hoặc sử dụng các phần của nó trong các chương trình miễn phí mới, và rằng bạn biết bạn có thể làm những điều này.
+
+Để bảo vệ quyền của bạn, chúng tôi cần ngăn người khác từ chối bạn những quyền này hoặc yêu cầu bạn từ bỏ quyền. Do đó, bạn có những trách nhiệm nhất định nếu bạn phân phối các bản sao của phần mềm, hoặc nếu bạn sửa đổi nó: trách nhiệm tôn trọng sự tự do của người khác.
+
+Ví dụ, nếu bạn phân phối các bản sao của chương trình như vậy, miễn phí hoặc có thu phí, bạn phải chuyển cho người nhận những quyền tự do mà bạn nhận được. Bạn phải chắc chắn rằng họ, quá, nhận được hoặc có thể lấy mã nguồn. Và bạn phải hiển thị cho họ các điều khoản này để họ biết quyền của họ.
+
+Các nhà phát triển sử dụng GNU GPL bảo vệ quyền của bạn bằng hai bước: (1) khẳng định bản quyền đối với phần mềm, và (2) cấp Giấy phép này cho phép bạn sao chép, phân phối và / hoặc sửa đổi nó.
+
+Để bảo vệ các nhà phát triển và tác giả, GPL giải thích rõ ràng rằng không có bảo hành cho phần mềm miễn phí này. Đối với cả người dùng và tác giả, GPL yêu cầu sửa đổi các phiên bản được đánh dấu là đã thay đổi, do đó các vấn đề của họ sẽ không được cho là sai lầm với các tác giả của các phiên bản trước.
+
+Một số thiết bị được thiết kế để từ chối người dùng truy cập để cài đặt hoặc chạy phiên bản sửa đổi của phần mềm bên trong chúng, mặc dù nhà sản xuất có thể làm như vậy. Điều này về cơ bản là không tương thích với mục đích bảo vệ quyền tự do của người dùng thay đổi phần mềm. Mô hình hệ thống của sự lạm dụng đó xảy ra trong khu vực sản phẩm cho các cá nhân sử dụng, chính xác là nơi mà nó không thể chấp nhận được. Do đó, chúng tôi đã thiết kế phiên bản GPL này để cấm thực hành cho những sản phẩm đó. Nếu những vấn đề này phát sinh đáng kể trong các lĩnh vực khác, chúng tôi sẵn sàng mở rộng điều khoản này cho các tên miền trong các phiên bản GPL trong tương lai nếu cần để bảo vệ quyền tự do của người dùng.
+
+Cuối cùng, mọi chương trình luôn bị đe dọa bởi các bằng sáng chế phần mềm. Các quốc gia không nên cho phép các bằng sáng chế hạn chế sự phát triển và sử dụng phần mềm trên các máy tính có mục đích chung, nhưng trong những điều đó, chúng ta muốn tránh nguy cơ đặc biệt mà các bằng sáng chế áp dụng cho một chương trình tự do có thể làm cho nó trở nên độc quyền. Để ngăn chặn điều này, GPL đảm bảo rằng bằng sáng chế không thể được sử dụng để làm cho chương trình không miễn phí.
+
+Các điều khoản và điều kiện chính xác để sao chép, phân phối và sửa đổi tuân theo.
+
+CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
+
+0. Định nghĩa.
+
+"Giấy phép này" đề cập đến phiên bản 3 của Giấy phép Công cộng GNU.
+
+"Bản quyền" cũng có nghĩa là các luật giống bản quyền áp dụng cho các loại công trình khác, chẳng hạn như mặt nạ bán dẫn.
+
+"Chương trình" đề cập đến bất kỳ tác phẩm có bản quyền nào được cấp phép theo Giấy phép này. Mỗi người được cấp giấy phép được gọi là "bạn". "Người được cấp phép" và "người nhận" có thể là cá nhân hoặc tổ chức.
+
+Để "sửa đổi" tác phẩm có nghĩa là sao chép hoặc thích ứng tất cả hoặc một phần tác phẩm theo cách yêu cầu sự cho phép bản quyền, trừ việc tạo bản sao chính xác. Tác phẩm kết quả được gọi là "phiên bản đã sửa đổi" của tác phẩm trước đó hoặc tác phẩm "dựa trên" tác phẩm trước đó.
+
+Một "tác phẩm được bảo hiểm" có nghĩa là Chương trình Chưa sửa đổi hoặc một tác phẩm dựa trên Chương trình.
+
+Để "truyền bá" một tác phẩm có nghĩa là làm bất cứ điều gì với điều đó mà không có sự cho phép sẽ làm cho bạn trực tiếp hoặc có trách nhiệm pháp lý về vi phạm theo luật bản quyền hiện hành, trừ việc thực hiện nó trên máy tính hoặc sửa đổi một bản sao riêng. Tuyên truyền bao gồm sao chép, phân phối (có hoặc không có sửa đổi), cung cấp cho công chúng, và ở một số quốc gia khác.
+
+"Truyền đạt" một tác phẩm có nghĩa là bất kỳ sự tuyên truyền nào cho phép các bên khác tạo hoặc nhận bản sao. Chỉ có sự tương tác với người dùng thông qua mạng máy tính mà không chuyển giao bản sao sẽ không được chuyển tải.
+Giao diện người dùng tương tác sẽ hiển thị "Thông báo pháp lý thích hợp" trong phạm vi mà nó bao gồm một tính năng tiện lợi và nổi bật rõ ràng (1) hiển thị thông báo bản quyền thích hợp và (2) nói với người dùng rằng không có bảo hành cho tác phẩm (ngoại trừ Mức độ bảo đảm được cung cấp), mà người được cấp phép có thể chuyển tải tác phẩm theo Giấy phép này, và cách xem một bản sao của Giấy phép này. Nếu giao diện trình bày một danh sách các lệnh người dùng hoặc các tùy chọn, chẳng hạn như một menu, một mục nổi bật trong danh sách đáp ứng tiêu chí này.
+
+1. Mã Nguồn.
+
+"Mã nguồn" cho tác phẩm là hình thức ưa thích của tác phẩm để sửa đổi nó. "Mã đối tượng" có nghĩa là bất kỳ hình thức không phải là nguồn nào của tác phẩm.
+
+Một "giao diện chuẩn" có nghĩa là một giao diện hoặc là một tiêu chuẩn chính thức được xác định bởi một cơ quan tiêu chuẩn được công nhận, hoặc, trong trường hợp các giao diện được chỉ định cho một ngôn ngữ lập trình cụ thể, một ngôn ngữ được sử dụng rộng rãi trong số các nhà phát triển làm việc trong ngôn ngữ đó.
+
+"Thư viện Hệ thống" của một tác phẩm thực thi bao gồm bất cứ điều gì, khác với công việc như một toàn thể, rằng (a) được bao gồm trong bao bì đóng gói chính của Hợp phần chính, nhưng không phải là một phần của Hợp phần chính đó và (b) Chỉ phục vụ cho phép sử dụng tác phẩm với Hợp phần chính đó hoặc để thực hiện Giao diện Tiêu chuẩn, trong đó một bản triển khai được cung cấp cho công chúng dưới dạng mã nguồn. "Hợp phần chính", trong ngữ cảnh này, có nghĩa là một thành phần thiết yếu quan trọng (hệ thống hạt nhân, hệ thống cửa sổ, vân vân) của hệ điều hành cụ thể (nếu có) mà tác phẩm chạy được thực thi, hoặc trình biên dịch sử dụng để sản xuất tác phẩm, Hoặc thông dịch mã đối tượng được sử dụng để chạy nó.
+
+"Nguồn tương ứng" cho một tác phẩm trong dạng mã đối tượng có nghĩa là tất cả các mã nguồn cần thiết để tạo ra, cài đặt, và (cho một công việc thực thi) chạy mã đối tượng và để sửa đổi tác phẩm, bao gồm các kịch bản để kiểm soát các hoạt động đó. Tuy nhiên, nó không bao gồm Thư viện Hệ thống của công việc, hoặc các công cụ có mục đích chung hoặc các chương trình miễn phí có sẵn nói chung được sử dụng không thay đổi trong việc thực hiện những hoạt động đó nhưng không phải là một phần của công việc. Ví dụ, Nguồn tương ứng bao gồm các tệp định nghĩa giao diện kết hợp với các tệp nguồn cho tác phẩm và mã nguồn cho các thư viện chia sẻ và chương trình con được liên kết động mà tác phẩm được thiết kế đặc biệt để yêu cầu, chẳng hạn như bằng giao tiếp dữ liệu thân mật hoặc kiểm soát lưu lượng giữa các chương trình con và Các phần khác của tác phẩm.
+
+Nguồn Tương ứng không cần bao gồm bất cứ thứ gì mà người dùng có thể tự động tạo lại từ các phần khác của Nguồn tương ứng.
+
+Nguồn tương ứng cho một tác phẩm trong dạng mã nguồn là cùng một tác phẩm đó.
+2. Các quyền cơ bản.
+
+Tất cả các quyền được cấp theo Giấy phép này được cấp cho thời hạn của bản quyền đối với Chương trình và không thể thu hồi được nếu các điều kiện đã nêu được đáp ứng. Giấy phép này một cách rõ ràng xác nhận sự cho phép không giới hạn của bạn để chạy Chương trình Chưa sửa đổi. Sản phẩm đầu ra từ việc chạy một tác phẩm được bảo hiểm chỉ được bảo vệ bởi Giấy Phép này nếu đầu ra, với nội dung của nó, tạo thành một tác phẩm được bảo hiểm. Giấy Phép này thừa nhận quyền sử dụng hợp pháp của bạn hoặc các giấy tờ tương đương khác theo luật bản quyền.
+
+Bạn có thể thực hiện, vận hành và truyền bá các tác phẩm được bảo hiểm mà bạn không truyền đạt, nếu không có điều kiện, miễn là giấy phép của bạn vẫn có hiệu lực. Bạn có thể truyền tải các tác phẩm được bảo hiểm cho người khác với mục đích duy nhất để họ sửa đổi riêng cho bạn hoặc cung cấp cho bạn các tiện nghi để chạy các tác phẩm đó, với điều kiện là bạn tuân thủ các điều khoản của Giấy phép này trong việc chuyển tải tất cả các tài liệu mà bạn không kiểm soát Bản quyền. Những người tạo ra hoặc điều hành các tác phẩm được bảo vệ cho bạn phải thực hiện điều đó dưới danh nghĩa của bạn, dưới sự chỉ đạo và kiểm soát của bạn, trên các điều khoản ngăn cấm họ làm bản sao tài liệu có bản quyền của bạn ngoài mối quan hệ với bạn.
+
+Việc truyền tải trong bất kỳ trường hợp nào khác chỉ được cho phép theo các điều kiện được nêu dưới đây. Không cho phép cấp phép riêng tư; Phần 10 làm cho nó không cần thiết.
+
+3. Bảo vệ quyền của Người sử dụng theo Luật Phòng Chống Chấn động
+
+Không có tác phẩm được bảo hiểm nào được coi là một phần của biện pháp công nghệ có hiệu quả theo bất kỳ luật hiện hành nào thực hiện nghĩa vụ theo Điều 11 của Hiệp ước về Bản quyền của WIPO thông qua ngày 20 tháng 12 năm 1996 hoặc các luật tương tự cấm hoặc hạn chế việc gian lận các biện pháp đó.
+
+Khi bạn chuyển tải một tác phẩm được bảo hiểm, bạn từ bỏ bất kỳ quyền pháp lý nào để cấm các biện pháp công nghệ trong phạm vi có thể xảy ra do thực hiện quyền theo Giấy phép này đối với tác phẩm được bảo hiểm và bạn từ chối mọi ý định để hạn chế hoạt động hoặc sửa đổi Làm việc như là một phương tiện để thi hành, chống lại người sử dụng của tác phẩm, các quyền hợp pháp của bên thứ ba hoặc của bên thứ ba để cấm các biện pháp công nghệ.
+
+4. Truyền tải bản sao nguyên văn.
+
+Bạn có thể truyền tải bản sao nguyên văn của mã nguồn của Chương trình khi bạn nhận được nó, bằng bất kỳ phương tiện nào, với điều kiện là bạn phải xuất bản một cách rõ ràng và thích hợp trên mỗi bản sao thông báo bản quyền phù hợp; Giữ nguyên tất cả các thông báo nói rằng Giấy phép này và bất kỳ điều khoản không cho phép nào được thêm vào phù hợp với mục 7 áp dụng cho mã; Giữ nguyên các thông báo về việc không có bảo hành; Và cho tất cả người nhận một bản sao của Giấy phép này cùng với Chương trình.
+
+Bạn có thể tính phí bất kỳ giá nào hoặc không có giá cho mỗi bản sao mà bạn chuyển tải, và bạn có thể hỗ trợ hoặc bảo hành bảo hành với mức phí.
+5. Truyền tải các phiên bản nguồn được sửa đổi.
+
+Bạn có thể truyền tải một tác phẩm dựa trên Chương trình hoặc sửa đổi để sản xuất nó từ Chương trình, dưới dạng mã nguồn theo các điều khoản của mục 4, miễn là bạn cũng đáp ứng tất cả các điều kiện sau:
+
+A) Tác phẩm phải có các thông báo nổi bật cho biết bạn đã sửa đổi nó và đưa ra ngày tháng phù hợp.
+B) Tác phẩm phải có các thông báo nổi bật cho biết rằng nó được phát hành theo Giấy phép này và bất kỳ điều kiện nào được bổ sung theo mục 7. Yêu cầu này sửa đổi yêu cầu trong phần 4 để "giữ nguyên các thông báo".
+C) Bạn phải cấp phép toàn bộ tác phẩm, như một toàn thể, theo Giấy phép này cho bất cứ ai sở hữu một bản sao. Giấy phép này do đó sẽ áp dụng, cùng với bất kỳ mục 7 bổ sung nào, đối với toàn bộ tác phẩm, và tất cả các phần của nó, bất kể chúng được đóng gói như thế nào. Giấy phép này không cho phép cấp phép tác phẩm dưới bất kỳ hình thức nào khác, nhưng nó không làm mất hiệu lực sự cho phép đó nếu bạn đã nhận nó một cách riêng biệt.
+D) Nếu tác phẩm có giao diện người dùng tương tác, mỗi bộ đều phải hiển thị Thông báo pháp lý thích hợp; Tuy nhiên, nếu Chương trình có các giao diện tương tác không hiển thị Thông báo pháp lý thích hợp, công việc của bạn không cần làm cho họ làm như vậy. 
+Việc biên soạn một tác phẩm được bảo hiểm với các tác phẩm riêng biệt và độc lập khác, không phải do sự mở rộng tự nhiên của tác phẩm được bảo hiểm và không kết hợp với nó như để tạo thành một chương trình lớn hơn, trong hoặc trên một khối lượng lưu trữ hoặc phân phối Trung bình được gọi là "tổng hợp" nếu việc biên soạn và bản quyền kết quả của nó không được sử dụng để hạn chế quyền truy cập hoặc hợp pháp của người sử dụng biên dịch vượt quá những gì cá nhân cho phép. Việc bao gồm một tác phẩm được bảo hiểm trong một tổng hợp không gây ra Giấy phép này áp dụng cho các phần khác của bản tổng hợp.
+
+6. Phân phối các mẫu không phải nguồn.
+
+Bạn có thể chuyển tải một tác phẩm được bảo hiểm dưới dạng mã đối tượng theo các điều khoản của phần 4 và 5, miễn là bạn cũng chuyển tải Nguồn tương ứng có thể đọc bằng máy tính theo các điều khoản của Giấy phép này bằng một trong những cách sau:
+
+A) Truyền mã đối tượng, hoặc thể hiện vào, một sản phẩm vật lý (bao gồm cả một môi trường phân phối vật lý), đi kèm với Nguồn tương ứng cố định trên một vật lý bền vững thường được sử dụng cho trao đổi phần mềm.
+B) Chuyển mã đối tượng vào, hoặc thể hiện, một sản phẩm vật lý (bao gồm cả một phương tiện phân phối vật lý) kèm theo một đề nghị bằng văn bản, có giá trị ít nhất ba năm và hợp lệ cho đến khi bạn cung cấp phụ tùng thay thế hoặc hỗ trợ khách hàng cho điều đó Mô hình sản phẩm, để cung cấp cho bất kỳ ai sở hữu mã đối tượng (1) một bản sao của Nguồn tương ứng cho tất cả các phần mềm trong sản phẩm được bao gồm trong Giấy phép này, trên một phương tiện vật lý bền vững thường được sử dụng cho trao đổi phần mềm, với giá không Nhiều hơn chi phí hợp lý để vận chuyển nguồn này, hoặc (2) truy cập để sao chép nguồn tương ứng từ máy chủ mạng miễn phí.
+C) Truyền tải từng bản sao của mã đối tượng với một bản sao của phiếu mua hàng bằng văn bản để cung cấp Nguồn tương ứng. Sự thay thế này chỉ được phép sử dụng và đôi khi không bắt buộc, và chỉ khi bạn nhận được mã đối tượng với một phiếu mua hàng như vậy, phù hợp với tiểu mục 6b.
+D) Truyền tải mã đối tượng bằng cách cung cấp truy cập từ nơi được chỉ định (miễn phí hoặc có tính phí) và cung cấp truy cập tương đương nguồn tương ứng bằng cùng cách thông qua cùng một nơi miễn phí. Bạn không cần người nhận sao chép nguồn tương ứng cùng với mã đối tượng. Nếu địa điểm để sao chép mã đối tượng là một máy chủ mạng, nguồn tương ứng có thể nằm trên một máy chủ khác (do bạn hoặc một bên thứ ba điều hành) hỗ trợ các phương tiện sao chép tương đương với điều kiện bạn phải duy trì hướng rõ ràng bên cạnh mã đối tượng, Tìm nguồn tương ứng. Bất kể máy chủ lưu trữ nguồn tương ứng, bạn vẫn có nghĩa vụ phải đảm bảo rằng nó có sẵn trong thời gian dài cần thiết để đáp ứng các yêu cầu này.
+E) Truyền tải mã đối tượng bằng cách sử dụng truyền tải peer-to-peer, với điều kiện bạn phải cung cấp thông tin cho những người khác mà mã đối tượng và nguồn tương ứng của tác phẩm đang được cung cấp cho công chúng mà không bị tính phí theo tiểu mục 6d.
+Một phần riêng biệt của mã đối tượng, có mã nguồn được loại trừ khỏi Nguồn tương ứng như là một Thư viện hệ thống, không cần phải được bao gồm trong việc truyền tải công việc mã đối tượng.
+
+"Sản phẩm Người dùng" là (1) "sản phẩm tiêu dùng", nghĩa là bất kỳ tài sản cá nhân hữu hình nào thường được sử dụng cho mục đích cá nhân, gia đình hoặc gia đình, hoặc (2) bất cứ thứ gì được thiết kế hoặc bán để đưa vào nhà ở. Để xác định liệu một sản phẩm là sản phẩm tiêu dùng, các trường hợp nghi ngờ sẽ được giải quyết theo hướng bảo hiểm. Đối với một sản phẩm cụ thể nhận được bởi một người dùng cụ thể, "thường được sử dụng" dùng để chỉ điển hình hoặc sử dụng chung loại sản phẩm đó, bất kể tình trạng của người sử dụng cụ thể hay cách mà người sử dụng cụ thể sử dụng thực tế, Dự kiến sẽ sử dụng, sản phẩm. Một sản phẩm là một sản phẩm tiêu dùng bất kể sản phẩm đó có sử dụng thương mại, công nghiệp hoặc phi người tiêu dùng đáng kể, trừ phi các ứng dụng đó chỉ là phương thức sử dụng sản phẩm quan trọng.
+
+"Thông tin Cài đặt" cho Sản phẩm Người dùng có nghĩa là bất kỳ phương pháp, quy trình, khoá ủy quyền hoặc thông tin khác được yêu cầu để cài đặt và thực hiện các phiên bản sửa đổi của một tác phẩm được bảo hiểm trong Sản phẩm Người dùng đó từ một phiên bản được sửa đổi của Nguồn tương ứng của nó. Thông tin phải đủ để đảm bảo rằng chức năng tiếp tục của mã đối tượng sửa đổi không phải là trường hợp ngăn cản hoặc can thiệp chỉ vì sửa đổi đã được thực hiện.
+
+Nếu bạn chuyển một mã đối tượng hoạt động theo mục này trong, hoặc với, hoặc cụ thể để sử dụng trong một Sản phẩm Người dùng và việc chuyển tải xảy ra như là một phần của một giao dịch mà quyền sở hữu và sử dụng Sản phẩm Người dùng được chuyển đến Người nhận có thời hạn hoặc có thời hạn (bất kể giao dịch được mô tả như thế nào), nguồn tương ứng được chuyển tải trong phần này phải được kèm theo Thông tin cài đặt. Nhưng yêu cầu này không áp dụng nếu cả bạn và bất kỳ bên thứ ba nào vẫn giữ khả năng cài đặt mã đối tượng được sửa đổi trên Sản phẩm Người dùng (ví dụ công việc đã được cài đặt trong ROM).
+
+Yêu cầu cung cấp Thông tin cài đặt không bao gồm yêu cầu tiếp tục cung cấp dịch vụ hỗ trợ, bảo hành hoặc cập nhật cho tác phẩm đã được sửa đổi hoặc cài đặt bởi người nhận hoặc cho Sản phẩm Người dùng đã được sửa đổi hoặc cài đặt. Việc truy cập mạng có thể bị từ chối khi bản sửa đổi chính nó và ảnh hưởng xấu đến hoạt động của mạng hoặc vi phạm các quy tắc và giao thức truyền thông qua mạng.
+
+Nguồn thông tin được chuyển tải và Thông tin cài đặt được cung cấp, phù hợp với phần này phải ở định dạng được cung cấp cho công chúng (và với sự triển khai có sẵn cho công chúng trong mã nguồn) và không yêu cầu mật khẩu đặc biệt hoặc chìa khóa để giải nén, Hoặc sao chép.
+
+7. Các Điều Khoản Bổ Sung.
+
+"Giấy phép bổ sung" là các điều khoản bổ sung các điều khoản của Giấy phép này bằng cách đưa ra ngoại lệ từ một hoặc nhiều điều kiện của nó. Các điều khoản bổ sung áp dụng cho toàn bộ Chương trình sẽ được coi như là chúng được bao gồm trong Giấy phép này, trong chừng mực mà chúng có hiệu lực theo luật áp dụng. Nếu các quyền bổ sung chỉ áp dụng cho một phần của Chương trình, phần đó có thể được sử dụng riêng biệt theo các quyền đó, nhưng toàn bộ Chương trình vẫn được điều chỉnh bởi Giấy phép này mà không quan tâm đến các quyền bổ sung.
+
+Khi bạn chuyển tải một bản sao của tác phẩm được bảo vệ, bạn có thể theo tùy chọn của bạn loại bỏ bất kỳ quyền bổ sung nào từ bản sao đó hoặc từ bất kỳ phần nào của nó. Bạn có thể đặt giấy phép bổ sung vào tài liệu, do bạn thêm vào tác phẩm được bảo hiểm mà bạn có hoặc có thể cho phép bản quyền thích hợp.
+
+Bất kể các điều khoản khác của Giấy phép này, đối với tài liệu bạn thêm vào một tác phẩm được bảo hiểm, bạn có thể (nếu được chủ bản quyền của tài liệu đó cho phép) bổ sung các điều khoản của Giấy phép này với các điều khoản:
+
+A) Trách nhiệm bảo hành hoặc hạn chế trách nhiệm khác với các điều khoản của phần 15 và 16 của Giấy phép này; hoặc là
+B) Yêu cầu bảo quản các thông báo hợp pháp hợp lý nhất định hoặc sự phân chia tác giả trong tài liệu đó hoặc trong Thông báo Pháp lý thích hợp được hiển thị bởi các tác phẩm có chứa nó; hoặc là
+C) Cấm khai sai về nguồn gốc của vật liệu đó hoặc yêu cầu các phiên bản sửa đổi của vật liệu đó phải được đánh dấu bằng những cách hợp lý khác với phiên bản ban đầu; hoặc là
+D) Giới hạn việc sử dụng cho mục đích công khai tên của người cấp phép hoặc tác giả của tài liệu; hoặc là
+E) Từ chối cấp các quyền theo luật nhãn hiệu đối với việc sử dụng một số tên thương mại, nhãn hiệu hoặc nhãn hiệu dịch vụ; hoặc là
+F) Yêu cầu bồi thường cho người cấp phép và tác giả của tài liệu đó bởi bất kỳ ai chuyển tải tài liệu (hoặc các phiên bản đã sửa đổi) bằng các giả định về nghĩa vụ đối với người nhận đối với bất kỳ trách nhiệm pháp lý nào mà những giả định hợp đồng này trực tiếp áp đặt cho những người cấp phép và tác giả đó.
+Tất cả các điều khoản bổ sung không cho phép khác được coi là "những hạn chế tiếp theo" trong phạm vi ý nghĩa của phần 10. Nếu Chương trình khi bạn nhận được nó, hoặc bất kỳ phần nào của nó, có chứa một thông báo nói rằng nó được quản lý bởi Giấy phép này cùng với một thuật ngữ Là một hạn chế nữa, bạn có thể xóa cụm từ đó. Nếu giấy phép có chứa một hạn chế hơn nữa nhưng cho phép cấp phép lại hoặc chuyển tải theo Giấy phép này, bạn có thể thêm vào một tài liệu công việc được bảo vệ theo các điều khoản của tài liệu giấy phép đó, với điều kiện là hạn chế tiếp tục không tồn tại cho việc tái cấp phép hoặc truyền đạt.
+
+Nếu bạn thêm các điều khoản vào một tác phẩm được bảo vệ phù hợp với mục này, bạn phải đặt trong các tệp nguồn có liên quan, tuyên bố các điều khoản bổ sung áp dụng cho các tệp đó hoặc thông báo cho biết nơi tìm các điều khoản áp dụng ở đâu.
+
+Các điều khoản bổ sung, cho phép hoặc không cho phép, có thể được nêu dưới hình thức một giấy phép bằng văn bản riêng biệt hoặc được nêu là ngoại lệ; Các yêu cầu trên áp dụng một trong hai cách.
+
+8. Chấm dứt.
+
+Bạn không được phép tuyên truyền hoặc sửa đổi một tác phẩm được bảo vệ trừ khi được quy định rõ ràng trong Giấy phép này. Bất kỳ cố gắng nào khác để tuyên truyền hoặc sửa đổi nó sẽ không có hiệu lực, và sẽ tự động chấm dứt các quyền của bạn theo Giấy phép này (bao gồm bất kỳ giấy phép bằng cấp được cấp theo đoạn thứ ba của phần 11).
+
+Tuy nhiên, nếu bạn chấm dứt mọi vi phạm Giấy phép này thì giấy phép của bạn từ một người giữ bản quyền cụ thể sẽ được phục hồi (a) tạm thời, trừ khi và cho đến khi chủ bản quyền rõ ràng và cuối cùng chấm dứt giấy phép của bạn, và (b) vĩnh viễn nếu chủ bản quyền không thành công Thông báo cho bạn biết về sự vi phạm bằng một số phương tiện hợp lý trước 60 ngày sau khi chấm dứt.
+
+Hơn nữa, giấy phép của bạn từ một người giữ bản quyền cụ thể được khôi phục lại vĩnh viễn nếu người giữ bản quyền thông báo cho bạn về sự vi phạm bằng một số phương tiện hợp lý, đây là lần đầu tiên bạn nhận được thông báo vi phạm Giấy phép này (cho bất kỳ tác phẩm nào) từ người giữ bản quyền đó, Và bạn có thể chữa khỏi vi phạm trước 30 ngày kể từ ngày nhận được thông báo của bạn.
+
+Việc chấm dứt các quyền của bạn theo mục này sẽ không chấm dứt giấy phép của các bên đã nhận bản sao hoặc các quyền từ bạn theo Giấy phép này. Nếu quyền của bạn đã bị chấm dứt và không được phục hồi vĩnh viễn, bạn không đủ điều kiện để nhận được giấy phép mới cho cùng một tài liệu theo mục 10.
+9. Chấp nhận không bắt buộc phải có bản sao.
+
+Bạn không bắt buộc phải chấp nhận Giấy phép này để nhận hoặc chạy một bản sao của Chương trình. Sự truyền bá phụ trợ của một tác phẩm được bảo hiểm chỉ xảy ra khi sử dụng truyền dẫn peer-to-peer để nhận bản sao cũng không cần phải chấp nhận. Tuy nhiên, không có gì khác với Giấy phép này cho phép bạn phổ biến hoặc sửa đổi bất kỳ tác phẩm được bảo hiểm nào. Những hành động này vi phạm bản quyền nếu bạn không chấp nhận Giấy phép này. Do đó, bằng cách sửa đổi hoặc tuyên truyền một tác phẩm được bảo vệ, bạn cho biết chấp nhận của bạn Giấy phép này để làm như vậy.
+
+10. Cấp phép tự động cho người nhận hạ lưu.
+
+Mỗi lần bạn chuyển tải một tác phẩm được bảo hiểm, người nhận sẽ tự động nhận được giấy phép từ các nhà cấp phép ban đầu, để chạy, sửa đổi và phổ biến tác phẩm đó, tùy thuộc vào Giấy phép này. Bạn không có trách nhiệm thực thi việc tuân thủ bởi bên thứ ba với Giấy phép này.
+
+Một "giao dịch thực thể" là một giao dịch chuyển quyền kiểm soát của một tổ chức, hoặc thực chất là tất cả các tài sản của một, hoặc chia nhỏ một tổ chức, hoặc hợp nhất các tổ chức. Nếu việc tuyên truyền một tác phẩm được bảo hiểm là kết quả của một giao dịch thực thể thì mỗi bên giao dịch đó nhận được một bản sao của tác phẩm cũng nhận được bất cứ giấy phép nào đối với tác phẩm mà người tiền nhiệm của bên đó quan tâm có hoặc có thể đưa ra theo đoạn trước, cộng với quyền sở hữu Của nguồn tương ứng của tác phẩm từ người tiền nhiệm quan tâm, nếu người tiền nhiệm có nó hoặc có thể nhận được nó với những nỗ lực hợp lý.
+
+Bạn không được áp đặt thêm bất kỳ hạn chế nào đối với việc thực hiện các quyền được cấp hoặc xác nhận theo Giấy phép này. Ví dụ: bạn không được áp dụng phí bản quyền, tiền bản quyền hoặc các khoản phí khác để thực hiện các quyền được cấp theo Giấy phép này và bạn không được khởi kiện (bao gồm cả khiếu nại chéo hoặc yêu cầu bồi thường trong vụ kiện) cáo buộc rằng mọi khiếu nại bằng sáng chế đều bị vi phạm Bằng cách làm, sử dụng, bán, chào bán, hoặc nhập khẩu Chương trình hoặc bất kỳ phần nào của nó.
+11. Bằng sáng chế.
+
+"Người đóng góp" là chủ sở hữu bản quyền cho phép sử dụng theo Giấy phép này của Chương trình hoặc công việc mà Chương trình dựa trên. Tác phẩm được cấp phép này được gọi là "phiên bản cộng tác viên" của cộng tác viên.
+
+"Các yêu cầu cấp bằng sáng chế cần thiết" của người đóng góp là tất cả các khiếu nại về quyền sở hữu được sở hữu hoặc kiểm soát bởi người đóng góp, cho dù được mua lại hoặc được mua lại trong tương lai, có thể bị xâm phạm theo cách nào đó, được cho phép bởi Giấy phép này, về việc tạo, sử dụng hoặc bán phiên bản đóng góp của Không bao gồm các khiếu nại chỉ được vi phạm do hậu quả của việc sửa đổi thêm phiên bản cộng tác viên. Đối với mục đích của định nghĩa này, "kiểm soát" bao gồm quyền cấp cấp bằng sáng chế phụ theo cách thức phù hợp với các yêu cầu của Giấy phép này.
+
+Mỗi người đóng góp cấp cho bạn một giấy phép độc quyền, trên toàn thế giới, không phải trả tiền bản quyền theo đơn yêu cầu cấp bằng sáng chế thiết yếu của người đóng góp, thực hiện, sử dụng, bán, chào bán, nhập khẩu và chạy, sửa đổi và truyền bá nội dung của phiên bản cộng tác viên.
+
+Trong ba đoạn sau, "giấy phép bằng sáng chế" là bất kỳ thỏa thuận hoặc cam kết rõ ràng nào, không phải là bằng văn bản (chẳng hạn như sự cho phép rõ ràng để thực hiện bằng sáng chế hoặc giao ước không kiện để vi phạm bằng sáng chế). Để "cấp" giấy phép bằng sáng chế đó cho một bên có nghĩa là đưa ra một thỏa thuận hoặc cam kết không thực thi bằng sáng chế đối với bên đó.
+
+Nếu bạn chuyển tải một tác phẩm được bảo hiểm, cố ý dựa vào giấy phép bằng sáng chế, và nguồn tương ứng của tác phẩm không có sẵn cho bất cứ ai sao chép, miễn phí và theo các điều khoản của Giấy phép này, thông qua một máy chủ mạng có sẵn công cộng hoặc các trang khác có thể truy cập được Nghĩa là sau đó bạn phải: (1) gây ra nguồn tương ứng để có sẵn, hoặc (2) sắp xếp để tước đoạt bản quyền của bản quyền bằng sáng chế cho tác phẩm cụ thể này, hoặc (3) sắp xếp, theo cách phù hợp với Yêu cầu của Giấy phép này, để gia hạn giấy phép bằng sáng chế cho người nhận hạ lưu. "Biết tin cậy" có nghĩa là bạn có kiến thức thực tế về giấy phép bằng sáng chế mà bạn chuyển tải tác phẩm được bảo hiểm ở một quốc gia hoặc việc sử dụng tác phẩm được bảo vệ của bạn ở một quốc gia sẽ vi phạm một hoặc nhiều bằng sáng chế nhận dạng ở quốc gia đó mà bạn Có lý do để tin là hợp lệ.
+
+Nếu, theo hoặc có liên quan đến một giao dịch hoặc thỏa thuận, bạn truyền đạt hoặc tuyên truyền bằng cách mua sắm một vật phẩm được bảo hiểm và cấp giấy phép bằng sáng chế cho một số bên nhận tác phẩm được bảo hiểm ủy quyền cho họ sử dụng, tuyên truyền, sửa đổi Hoặc chuyển tải một bản sao cụ thể của tác phẩm được bảo hiểm thì giấy phép bằng sáng chế mà bạn cấp sẽ được tự động mở rộng cho tất cả người nhận tác phẩm được bảo hiểm và các tác phẩm dựa trên nó.
+
+Giấy phép bằng sáng chế là "phân biệt đối xử" nếu nó không bao gồm trong phạm vi bảo hiểm của nó, cấm việc thực hiện, hoặc bị quy định về việc không thực hiện một hoặc nhiều quyền được đặc biệt được cấp theo Giấy phép này. Bạn không được chuyển tải một tác phẩm được bảo hiểm nếu bạn là một bên của thỏa thuận với bên thứ ba trong kinh doanh phân phối phần mềm, theo đó bạn thanh toán cho bên thứ ba dựa trên mức độ hoạt động chuyển tải tác phẩm của bạn, và Theo đó bên thứ ba cấp cho bất kỳ bên nào nhận được tác phẩm được bảo vệ từ bạn, giấy phép bằng sáng chế phân biệt (a) liên quan đến bản sao của tác phẩm được bảo hiểm do bạn chuyển tải (hoặc bản sao của các bản sao đó) hoặc B) chủ yếu cho và liên quan đến các sản phẩm cụ thể hoặc biên soạn có chứa tác phẩm được bảo hiểm, trừ khi bạn đã ký kết thỏa thuận đó, hoặc giấy phép bằng sáng chế đã được cấp trước ngày 28 tháng 3 năm 2007.
+
+Không có điều khoản nào trong Giấy phép này được hiểu là không bao gồm hoặc giới hạn bất kỳ giấy phép ngụ ý hoặc các biện pháp phòng vệ khác đối với hành vi vi phạm mà theo cách khác có thể có sẵn theo luật bằng sáng chế hiện hành.
+12. Không đầu hàng của tự do người khác.
+
+Nếu các điều kiện được áp đặt cho bạn (cho dù theo lệnh tòa, thỏa thuận hoặc bằng cách khác) mâu thuẫn với các điều kiện của Giấy phép này, họ sẽ không loại trừ bạn khỏi các điều kiện của Giấy phép này. Nếu bạn không thể chuyển tải một tác phẩm được bảo hiểm để thỏa mãn các nghĩa vụ của bạn theo Giấy phép này và bất kỳ nghĩa vụ nào khác, thì hậu quả là bạn không thể chuyển tải nó. Ví dụ: nếu bạn đồng ý với các điều khoản bắt buộc bạn phải thu tiền bản quyền để chuyển tiếp từ những người mà bạn chuyển tải Chương trình, cách duy nhất bạn có thể thỏa mãn cả hai điều khoản và Giấy phép này là phải kiềm chế hoàn toàn việc chuyển tải Chương trình.
+
+13. Sử dụng với Giấy phép Công cộng GPL của GNU.
+
+Bất kể các điều khoản khác của Giấy phép này, bạn có quyền kết nối hoặc kết hợp bất kỳ tác phẩm được bảo hiểm nào với tác phẩm được cấp phép theo phiên bản 3 của Giấy phép Công cộng Affose của GNU vào một tác phẩm kết hợp duy nhất và chuyển tải kết quả công việc. Các điều khoản của Giấy phép này sẽ tiếp tục áp dụng cho phần được bảo hiểm, nhưng các yêu cầu đặc biệt của Giấy phép Công cộng Phép chung GNU, phần 13, liên quan đến tương tác thông qua mạng sẽ áp dụng cho sự kết hợp như vậy.
+
+14. Phiên bản sửa đổi của Giấy phép này.
+
+Tổ chức Phần mềm Tự do có thể xuất bản các phiên bản sửa đổi và / hoặc mới của Giấy phép Công cộng GNU vào từng thời điểm. Các phiên bản mới này sẽ tương tự như tinh thần với phiên bản hiện tại, nhưng có thể khác biệt chi tiết để giải quyết các vấn đề hoặc mối quan tâm mới.
+
+Mỗi phiên bản được gán một số phiên bản riêng. Nếu Chương trình xác định rằng một phiên bản được đánh số nào đó của Giấy phép Công cộng Gnu "hoặc bất kỳ phiên bản sau nào" áp dụng cho nó, bạn có tùy chọn tuân thủ các điều khoản và điều kiện của phiên bản số đó hoặc bất kỳ phiên bản sau nào được xuất bản bởi Phần Mềm Tự do Nền tảng. Nếu Chương trình không chỉ định một số phiên bản của Giấy phép Công cộng GNU, bạn có thể chọn bất kỳ phiên bản nào đã được xuất bản bởi Tổ chức Phần mềm Tự do.
+Nếu Chương trình xác định rằng một proxy có thể quyết định những phiên bản tương lai của Giấy phép Công cộng GNU trong tương lai có thể được sử dụng, tuyên bố công khai của proxy về việc chấp nhận một phiên bản vĩnh viễn cho phép bạn chọn phiên bản cho Chương trình đó.
+
+Các phiên bản cấp phép sau này có thể cung cấp cho bạn quyền bổ sung hoặc khác. Tuy nhiên, không có nghĩa vụ bổ sung nào được áp đặt đối với bất kỳ tác giả hoặc người giữ bản quyền nào do bạn chọn tuân theo phiên bản sau.
+15. Khước từ bảo hành.
+Trừ trường hợp các bên giữ bản quyền và / hoặc các bên khác cung cấp chương trình "như hiện tại" không có sự bảo đảm dưới bất kỳ hình thức nào, bao gồm, nhưng không giới hạn, các bảo đảm ngụ ý về tính thương mại và tính phù hợp cho một mục đích cụ thể Toàn bộ nguy cơ về chất lượng và hiệu suất của chương trình với bạn nếu chương trình chứng minh khiếm khuyết, bạn giả định chi phí của tất cả các dịch vụ cần thiết, sửa chữa hoặc hiệu chỉnh
+16. Giới hạn trách nhiệm.
+Trong bất kỳ trường hợp nào trừ phi được yêu cầu bởi luật áp dụng hoặc đồng ý bằng văn bản thì bất kỳ bên giữ bản quyền nào, hoặc bất kỳ bên nào khác sửa đổi và / hoặc truyền tải chương trình như được cho phép ở trên, chịu trách nhiệm đối với bạn về các thiệt hại, bao gồm bất kỳ thiệt hại chung, đặc biệt hoặc hậu quả đặc biệt Phát sinh từ việc sử dụng hoặc không có khả năng sử dụng chương trình (bao gồm nhưng không giới hạn ở việc mất dữ liệu hoặc dữ liệu bị cho là không chính xác hoặc tổn thất do bạn hoặc bên thứ ba duy trì hoặc sự thất bại của chương trình để hoạt động với bất kỳ chương trình nào khác) Hoặc bên khác đã được thông báo về khả năng thiệt hại như vậy
+17. Giải thích từ Mục 15 và 16.
+
+Nếu việc từ chối bảo hành và giới hạn trách nhiệm được quy định ở trên không thể có hiệu lực pháp luật địa phương theo các điều khoản của họ thì việc xem xét các tòa án sẽ áp dụng luật pháp địa phương gần giống nhất với việc miễn trừ tuyệt đối tất cả trách nhiệm dân sự liên quan đến Chương trình trừ khi có bảo hành hoặc giả định Trách nhiệm đi kèm với một bản sao của Chương trình đổi lại cho một khoản phí.
+
+KẾT THÚC CÁC ĐIỀU KHOẢN VÀ ĐIỀU KIỆN
+
+Cách Nộp Các Điều Khoản này vào Các Chương Trình Mới Của Bạn
+
+Nếu bạn phát triển một chương trình mới, và bạn muốn nó được sử dụng tốt nhất có thể cho công chúng, cách tốt nhất để đạt được điều này là làm cho nó miễn phí phần mềm mà mọi người có thể phân phối lại và thay đổi theo các điều khoản này.
+
+Để làm như vậy, hãy đính kèm các thông báo sau vào chương trình. Đó là an toàn nhất để gắn chúng vào đầu của mỗi tập tin mã nguồn để có hiệu quả nhất tuyên bố loại trừ bảo hành; Và mỗi tập tin phải có ít nhất là dòng "bản quyền" và một con trỏ đến nơi có thông báo đầy đủ.
+
+    <Một dòng để cho tên của chương trình và một ý tưởng ngắn về những gì nó làm.>
+    Bản quyền (C) <năm> <tên tác giả>
+
+    Chương trình này là phần mềm tự do: bạn có thể phân phối lại nó và / hoặc sửa đổi
+    Nó theo các điều khoản của Giấy phép Công cộng GNU như được xuất bản bởi
+    Tổ chức Phần mềm Tự do, hoặc là phiên bản 3 của Giấy phép, hoặc
+    (Tùy chọn của bạn) bất kỳ phiên bản sau này.
+
+    Chương trình này được phân phối với hy vọng rằng nó sẽ hữu ích,
+    Nhưng KHÔNG CÓ BẢO ĐẢM NÀO; Thậm chí không có sự bảo đảm ngụ ý
+    KHẢ NĂNG BÁN HO orC SỰ PHÙ HỢP CHO MỤC ĐÍCH CỤ THỂ. Xem
+    Giấy phép Công cộng GNU để biết thêm chi tiết.
+
+    Bạn nên đã nhận được một bản sao của Giấy phép Công cộng GNU
+    Cùng với chương trình này. Nếu không, xem <http://www.gnu.org/licenses/>.
+Cũng thêm thông tin về cách liên lạc với bạn bằng thư điện tử và giấy.
+
+Nếu chương trình tương tác thiết bị đầu cuối, làm cho nó ra một thông báo ngắn như thế này khi nó bắt đầu trong một chế độ tương tác:
+<Program> Bản quyền (C) <year> <tên tác giả>
+    Chương trình này đi kèm với hoàn toàn KHÔNG CÓ BẢO HÀNH; Để biết chi tiết gõ `show w '.
+    Đây là phần mềm miễn phí và bạn được chào đón để phân phối lại nó
+    dưới một số điều kiện nhất định; Gõ `show c 'để biết chi tiết.
+Các lệnh giả thuyết `show w 'và` show c' phải hiển thị các phần thích hợp của Giấy phép Công cộng. Tất nhiên, các lệnh của chương trình có thể khác; Cho một giao diện GUI, bạn sẽ sử dụng một "về hộp".
+
+Bạn cũng nên nhờ người chủ của mình (nếu bạn làm việc như là một lập trình viên) hoặc trường học, nếu có, để ký vào một "bản quyền miễn trách nhiệm về bản quyền" cho chương trình, nếu cần. Để biết thêm thông tin về điều này, và cách áp dụng và tuân theo GNU GPL, xem <http://www.gnu.org/licenses/>.
+
+Giấy phép Công cộng GNU không cho phép kết hợp chương trình của bạn vào các chương trình độc quyền. Nếu chương trình của bạn là một thư viện chương trình con, bạn có thể xem xét nó hữu ích hơn để cho phép các ứng dụng liên kết độc quyền với thư viện. Nếu đây là những gì bạn muốn làm, hãy sử dụng Giấy phép Công cộng của GNU thay vì Giấy phép này. Nhưng trước hết hãy đọc <http://www.gnu.org/philosophy/why-not-lgpl.html>.
