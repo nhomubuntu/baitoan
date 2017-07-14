@@ -4,6 +4,8 @@
 <p><h4>Thành viên:</h4><p>
 <p>Dương thị thanh dung</p>
 <p>Trần thanh tuyền</p>
+<p>Nguyễn Đức Nhã</p>
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <p><h3>MỤC ĐÍCH SỬ DỤNG:</h3></p>
 <p>Hiện nay ,các trò chơi ứng dụng cho giới trẻ đã khá phổ biến các app và trò chơi đa dạng ,nhóm em với mục đích học tập cũng như đóng góp vào kho mã nguồn chung để có thể phát triển và hoàn thiện . </p>
