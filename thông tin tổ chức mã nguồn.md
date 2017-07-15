@@ -5,10 +5,10 @@ Thì các thành viên trong nhóm chúng xẽ thống nhất với nhau xẽ l�
 ## **+ Tổ chức lập trình:** nhóm xẽ triển khai dự án theo mô hình 3 lớp.
 **- Preject DTO:** DTO chứa các Class đại diện cho các đối tượng được lưu trữ trong Database.
 <p>Ví du Class program.cs(biến cục bộ)</p>
-<img src="https://photos.google.com/album/AF1QipMGoWRcsQSlCCr_Vh8-NQkZgUY2GDLtWplJfrIv/photo/AF1QipPQgc2p3ZLbTom_yj1alDjNiJgN1lgryEKSEcA5">
+<img src="https://www.facebook.com/photo.php?fbid=1770961696529445&set=g.1905886119628333&type=1&theater">
 
 **- Preject DAL:** DAL chứa các Class và các Class này có chức năng giao tiếp với hệ quản trị CSDL như thực hiện các công việc liên quan đến lưu trữ và truy vấn dữ liệu ( tìm kiếm, thêm, xóa, sửa,…).
 <p>Ví du Class hoadon</p>
 
-<img src="https://photos.google.com/album/AF1QipMGoWRcsQSlCCr_Vh8-NQkZgUY2GDLtWplJfrIv/photo/AF1QipPcPdYya473vSJ7-c27fuT0U4ukUSCM0t1xiAzl">
+<img src="https://www.facebook.com/photo.php?fbid=1770961706529444&set=g.1905886119628333&type=1&theater">
 
