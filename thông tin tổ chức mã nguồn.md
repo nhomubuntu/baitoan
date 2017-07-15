@@ -169,5 +169,5 @@ Thì các thành viên trong nhóm chúng xẽ thống nhất với nhau xẽ l�
 
    <p> }</p>
 <p>}</p>
-**- Preject GUI:** GUI là nơi có nhiệm vụ chính giao tiếp với người dùng. Nó gồm các thành phần giao diện và thực hiện các công việc như nhập liệu, hiển thị dữ liêu, kiểm tra tính đúng đắn dữ liệu trước khi gọi lớp BLL.
+<p>**- Preject GUI:** GUI là nơi có nhiệm vụ chính giao tiếp với người dùng. Nó gồm các thành phần giao diện và thực hiện các công việc như nhập liệu, hiển thị dữ liêu, kiểm tra tính đúng đắn dữ liệu trước khi gọi lớp BLL.</p>
 
