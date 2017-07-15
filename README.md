@@ -1,6 +1,6 @@
 # baitoan
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-<p><h1>ĐÊ TÀI : VIẾT GAME FLAPPY BIRD BẰNG JAVA</h1></p>
+<p><h1>ĐÊ TÀI : XÂY DỰNG FORM QLCHMT TRÊN VISUAL STUDIO</h1></p>
 <p><h4>Thành viên:</h4><p>
 <p>Dương thị thanh dung</p>
 <p>Trần thanh tuyền</p>
@@ -8,12 +8,26 @@
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 <p><h3>MỤC ĐÍCH SỬ DỤNG:</h3></p>
-<p>Hiện nay ,các trò chơi ứng dụng cho giới trẻ đã khá phổ biến các app và trò chơi đa dạng ,nhóm em với mục đích học tập cũng như đóng góp vào kho mã nguồn chung để có thể phát triển và hoàn thiện . </p>
+<p>Hiện nay ,các chương trình ứng dụng ứng dụng quản lý cho cửa hàng đã khá phổ biến và đa dạng ,Tại sao sử dụng Windows Forms ? </p>
+<p>Có tập hợp các cotrol
+phong phú<p>
+ <p>Nhiều kiểu giao diện</p>
+<p>Hỗ trợ cải tiến việc in ấn</p>
+ <p>Hỗ trợ cải tiến về đồ họa
+– GDI+</p>
+<p>Hỗ trợ khả năng truy
+cập qua các thuộc tính
+của control</p>
+<p>Hỗ trợ thừa kế</p>
+<p>Các đối tượng có thể
+cải tiến</p>
+<p>Thuận lợi cho thiết kế
+forms</p>
 <p><h3>MỤC ĐÍNH PHÁT TRIỂN TRONG TƯƠNG LAI:</h3></p>
-<p>Hiện nay thời kì game online cũng như offline rất phát triển và có tiềm năng phát triển hơn nữa ;với mục đích nghiên cứu,học tập,đóng góp cho cộng đồng mã nguồn chung ,để có thể hoàn thiện sản phẩm khắc phục lỗi sản phẩm với mục đích hoàn thiện hơn nữa trong tương lai.</p>
+<p>Hiện nay thời kì công nghệ tt rất phát triển và có tiềm năng phát triển hơn nữa ;với mục đích nghiên cứu,học tập,đóng góp cho cộng đồng mã nguồn chung ,để có thể hoàn thiện sản phẩm khắc phục lỗi sản phẩm với mục đích hoàn thiện hơn nữa trong tương lai.</p>
 <p><h3>ĐẶC TẢ CHỨC NĂNG:</h3></p>
-<p>Là ứng dụng viết bằng ngôn ngữ java ,game giúp người chơi rèn luyện tính nhanh nhạy,tạo hứng thú cho người chơi.</p>
+<p>Là phần mềm viết bằng ngôn ngữ C# giúp người dùng thuận tiện thao tác rút ngắn thời gian nhập hóa đơn</p>
+<p>Chức năng thêm,sửa,xóa ,Tìm kiếm thông tin cửa hàng</p>
 
-<p>Hình ảnh rõ dàng màu sắc cân đối đặc tả hoạt cảnh<p>
-<p><h3>GIỚI THIỆU VỀ GAME</h3></p>
-<p>Game có các chướng ngại vật hình ống nước người chơi điều khiển flappy bird bay qua ống nước nếu đụng vô ống thì kết thúc game </p>
+
+
