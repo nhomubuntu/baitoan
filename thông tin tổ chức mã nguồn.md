@@ -4,7 +4,8 @@ Cách đặt tên dễ hiểu, dễ nhớ còn giúp bạn dễ dàng tìm file 
 Thì các thành viên trong nhóm chúng xẽ thống nhất với nhau xẽ làm việc theo chuẩn sau:
 ## **+ Tổ chức lập trình:** nhóm xẽ triển khai dự án theo mô hình 3 lớp.
 **- Preject DTO:** DTO chứa các Class đại diện cho các đối tượng được lưu trữ trong Database.
-Ví du Class program.cs(biến cục bộ)
+<p>Ví du Class program.cs(biến cục bộ)</p>
+
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -31,7 +32,8 @@ namespace baitaplon
     }
 }
 **- Preject DAL:** DAL chứa các Class và các Class này có chức năng giao tiếp với hệ quản trị CSDL như thực hiện các công việc liên quan đến lưu trữ và truy vấn dữ liệu ( tìm kiếm, thêm, xóa, sửa,…).
-Ví du Class hoadon
+<p>Ví du Class hoadon</p>
+
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -75,11 +77,6 @@ namespace baitaplon
             themhoadon(txtma.Text, cbkhachhang.Text, txtngaylap.Text,txtngaygiao.Text,txtnoigiao.Text,cbnhanvien.Text);
             dgvHoaDon.DataSource = hoadonds();
         }
-
-        //private void themhoadon(string p, string p_2, string p_3, string p_4, string p_5, string p_6)
-        //{
-        //    throw new NotImplementedException();
-        //}
         void xoahoadon(string MAHD)
         {
             
