@@ -17,3 +17,15 @@
 <a href="http://imgur.com/11mf90A"><img src="http://i.imgur.com/11mf90A.png" title="source: imgur.com" /></a>
 <p>Đặt tên cho Text bạn đặt tên có dấu và ký tự bình thường</p>
 <p>Đặt tên cho (name) là chữa cái không dấu và phải nối liền nhau không kí tự đặc biệt</p>
+<p><h3>LƯU Ý:</h3></p> <p><h4>Thực hiện kết nối CSDL Và lấy chuỗi kết nối</h4></p>
+<p> Trên menu ngang chúng ta vô mục Tools -> connect to database</p>
+<a href="http://imgur.com/Zz86llA"><img src="http://i.imgur.com/Zz86llA.png" title="source: imgur.com" /></a>
+<p>Điền tên server name trên SQL server vào khung server name trên cửa sổ ,select or enter a database name chúng ta điền đúng tên hoặc chọn tên database muốn kết nối đến</p>
+<a href="http://imgur.com/DUOrkPi"><img src="http://i.imgur.com/DUOrkPi.png" title="source: imgur.com" /></a>
+<p>Sau đó click Test connection xem có kết nối đc ko </p>
+<a href="http://imgur.com/KRM7ext"><img src="http://i.imgur.com/KRM7ext.png" title="source: imgur.com" /></a>
+<p>=> kết nối thành công</p>
+<p>Click OK sẽ đưa đến hộp thoại hiện chuỗi kết nối chúng ta copy chuỗi kết nối rồi đưa vô code </p>
+<a href="http://imgur.com/C0VZv3p"><img src="http://i.imgur.com/C0VZv3p.png" title="source: imgur.com" /></a>
+<p>Khi đó bên khung server explorer sẽ hiện sql đang kết nối</p>
+<a href="http://imgur.com/Fo1NrlB"><img src="http://i.imgur.com/Fo1NrlB.png" title="source: imgur.com" /></a>
