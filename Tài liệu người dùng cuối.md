@@ -125,7 +125,7 @@ Các phiên bản Java đã phát hành:
 
 <p><h4>3.Yêu cầu với hệ thống mới</h4></p>
     <p>Dựa trên quy trình làm việc của cửa hàng bán thiết bị máy tính, từ nhược điểm nói trên chúng em thấy có một phần mềm quản lí là rất cần thiết. Với một cửa hàng cần quản lí về việc mua bán thiết bị, quản lí tài chính. Phần mềm nhóm em làm là phần mềm quản lí việc bán thiết bị máy tính của một cửa hàng. Phạm vi bán thiết bị trong một cửa hàng và với người sử dụng hệ thống là nhân viên quản lí của cửa hàng.
-<p><h5>	Các yêu cầu người dung:</h5></p>
+<p><h5>	Các yêu cầu người dùng:</h5></p>
 <p>•	Phần mềm có giao diện phù hợp , sử dụng tiện lợi, nhanh chóng cho người sử dụng. </p>
 <p>•	Có khả năng nhập, xuất dữ liệu cho mỗi lần nhập, xuất thiết bị kèm các bản in phiếu xuất, nhập</p>
 <p>•	Xử lí được việc sửa dữ liệu nếu trong quá trình nhập sai sót</p>
@@ -141,8 +141,8 @@ Các phiên bản Java đã phát hành:
 <p>•	Quản lí nhân viên</p>
 <p>•	Tra cứu</p>
 <p>•	Thông kê, in ấn</p>
-<p><h3>II/	Mô hình và biểu đồ.</h3></p>
-      <p><h4>  1.Sơ đồ phân cấp chức năng</h4></p>
+<p><h3>II.	Mô hình và biểu đồ.</h3></p>
+<p><h4>1.Sơ đồ phân cấp chức năng</h4></p>
 <a href="http://imgur.com/DOki78n"><img src="http://i.imgur.com/DOki78n.png" title="source: imgur.com" /></a>
 <p><h4>2.Biểu đồ luồng dữ liệu</h4></p>
 <p><h4>Mức bối cảnh</h4></p>
@@ -158,3 +158,15 @@ Các phiên bản Java đã phát hành:
 <p>•	Chương trình có khả năng cho phép xem danh sách các thiết bị hiện có trong cửa hàng.</p>
 <p>•	Cho phép tra cứu thông tin về thiết bị</p>
 <p>•	In phiếu nhập, xuất và thống kê tình hình bán thiết bị</p>
+
+<h4>3.Thiết kế dữ liệu</h4></p>
+<h5>Khách hàng</h5>
+img scr:"https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20187792_1990211444549297_753705494_n.png?oh=671ce59f086b94480b0e451e86e937c5&oe=596DCC08"
+<h5>Nhân viên</h5>
+<h5>Kho hàng</h5>
+<h5>Mặt hàng</h5>
+<h5>Phân loại</h5>
+<h5>Nhà cung cấp</h5>
+<h5>Cung cấp</h5>
+<h5>Hóa đơn</h5>
+<h5>Chi tiết hóa đơn</h5>
