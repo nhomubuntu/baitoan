@@ -181,4 +181,54 @@ Các phiên bản Java đã phát hành:
  
 <h5>4.Thiết kế biểu mẫu</h5>
 -	Hóa đơn bán hàng
+
 <a href="http://imgur.com/DOki78n"><img src="https://user-images.githubusercontent.com/27817852/28237780-2f914d4c-6971-11e7-9488-2a03b0e89635.png" /></a>
+
+-	Hóa đơn nhập hàng
+
+<a href="http://imgur.com/DOki78n"><img src="https://user-images.githubusercontent.com/27817852/28237781-318830de-6971-11e7-97fc-e4337700c6fc.png" /></a>
+
+<h3>PHẦN 4: XÂY DỰNG HỆ THỐNG</h3>
+
+<h4>1. Thiết kế giao diện</h4>
+- Form QUẢN LÍ CỦA HÀNG MÁY TÍNH
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20067540_1990238761213232_890179963_n.png?oh=64d459447c9c977a17b27d212ad0babc&oe=596DDBDD" /></a>
+
+- Form Khách hàng
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20120818_1990238777879897_672995287_n.png?oh=3f8ebb64c38935a420031eefb2df1198&oe=596DB6B1" /></a>
+
+-Form Nhân Viên
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117351_1990238767879898_452873151_n.png?oh=9787732d954be551c07a2a4595e5e189&oe=596DBF72" /></a>
+
+- Form Kho hàng
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117602_1990238781213230_1160464887_n.png?oh=dd10ed95371981c222cebc456c7a6a19&oe=596DE5D9" /></a>
+
+- Form mặt hàng
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20067947_1990238771213231_13347708_n.png?oh=f0a6dc40bc5981b3311cd97f41c12e8d&oe=596CB5A3" /></a>
+
+- Form cung cấp
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20136405_1990238791213229_693329544_n.png?oh=c637aa1de402e8bd1f7191835991c551&oe=596DDC28" /></a>
+
+- Form nhà cung cấp
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20134508_1990238764546565_1922536934_n.png?oh=a3f1cdfe1dccb8c790ac2c1724137b1e&oe=596DF47B" /></a>
+
+- Form phân loại
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20120894_1990238754546566_1856119594_n.png?oh=db346eec88221a1dcf5bb3ea81d0d533&oe=596DA37B" /></a>
+
+- Form hóa đơn
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117589_1990238784546563_2117686571_n.png?oh=d88127f3f6934a0f4870368431db5700&oe=596DD9FC" /></a>
+
+- Form chi tiết hóa đơn
+
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20158476_1990238787879896_963222269_n.png?oh=88fae156e5c64d3b34fe280ab80c8728&oe=596D7914" /></a>
+
+
