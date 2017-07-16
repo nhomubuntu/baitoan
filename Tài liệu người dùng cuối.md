@@ -161,7 +161,7 @@ Các phiên bản Java đã phát hành:
 
 <h4>3.Thiết kế dữ liệu</h4></p>
 <h5>Khách hàng</h5>
-https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20187792_1990211444549297_753705494_n.png?oh=671ce59f086b94480b0e451e86e937c5&oe=596DCC08
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20187792_1990211444549297_753705494_n.png?oh=671ce59f086b94480b0e451e86e937c5&oe=596DCC08" /></a>
 <h5>Nhân viên</h5>
 <h5>Kho hàng</h5>
 <h5>Mặt hàng</h5>
