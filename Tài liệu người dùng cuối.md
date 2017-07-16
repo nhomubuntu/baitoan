@@ -115,8 +115,7 @@ PHẦN 3: KHẢO SÁT, PHÂN TÍCH VÀ THIẾT KẾ PHẦN MỀM
 
 2. Phân tích hệ thống
 2.1 Biểu đồ phân cấp chức năng
-https://camo.githubusercontent.com/f4d49fb6f7b496443aad30f16f53f4730243665d/687474703a2f2f692e696d6775722e636f6d2f444f6b6937386e2e706e67
-
+<a href="http://imgur.com/DOki78n"><img src="http://i.imgur.com/DOki78n.png" title="source: imgur.com" /></a>
 2.2 Phân tích về biểu đồ phân cấp chức năng
 a. Đặc tả về chức năng
 	Chương trình có khả năng lưu trữ, cập nhật thông tin về các loại máy tính, nhân viên và khách hàng.
