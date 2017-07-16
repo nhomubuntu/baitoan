@@ -181,4 +181,4 @@ Các phiên bản Java đã phát hành:
  
 <h5>4.Thiết kế biểu mẫu</h5>
 -	Hóa đơn bán hàng
-<a href="https://user-images.githubusercontent.com/27817852/28237780-2f914d4c-6971-11e7-9488-2a03b0e89635.png" /></a>
+<a href="http://imgur.com/DOki78n"><img src="https://user-images.githubusercontent.com/27817852/28237780-2f914d4c-6971-11e7-9488-2a03b0e89635.png" /></a>
