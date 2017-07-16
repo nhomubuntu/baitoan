@@ -163,10 +163,18 @@ Các phiên bản Java đã phát hành:
 <h5>Khách hàng</h5>
 <a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20187792_1990211444549297_753705494_n.png?oh=671ce59f086b94480b0e451e86e937c5&oe=596DCC08" /></a>
 <h5>Nhân viên</h5>
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20158284_1990211427882632_1759571908_n.png?oh=95d10f20b96ecd2bf8c40c011e7705b0&oe=596DBFA9" /></a>
 <h5>Kho hàng</h5>
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20120812_1990211434549298_74971646_n.png?oh=09080fe6e63177418a4c9780b4855ceb&oe=596DF4BA" /></a>
 <h5>Mặt hàng</h5>
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117633_1990211441215964_221165313_n.png?oh=43754ab4a2d37775d018df163e330345&oe=596DEAD3" /></a>
 <h5>Phân loại</h5>
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117732_1990211437882631_784554768_n.png?oh=1101b67b6b7d3b8a120f44ba7803721c&oe=596D910F" /></a>
 <h5>Nhà cung cấp</h5>
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117708_1990211447882630_359106264_n.png?oh=1974239977e5881dc5727ce4bf8235d9&oe=596DC742" /></a>
 <h5>Cung cấp</h5>
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117496_1990211474549294_2067898855_n.png?oh=6f4cd2a45d92985c4499bedcf1e17beb&oe=596DA5B5" /></a>
 <h5>Hóa đơn</h5>
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117260_1990211431215965_192381787_n.png?oh=6f61033f8be1945fae68418d85fe111c&oe=596DECCD" /></a>
 <h5>Chi tiết hóa đơn</h5>
+<a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117269_1990211471215961_474896369_n.png?oh=cce5b6a6dea7fdc9153c3c5a58fae3d2&oe=596CB998" /></a>
