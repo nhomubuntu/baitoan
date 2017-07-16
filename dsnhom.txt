@@ -1,6 +1,6 @@
-﻿DANH SÁCH NHÓM 
-thành viên : 
-Dương Thị Thanh Dung ( truong nhóm) 
-Nguyễn Đức Nhã
-Trần Thị Thanh Tuyền
-ĐỀ TÀI : XÂY DỰNG PHẦN MỀM QUẢN LÝ CHMT TRÊN VISUAL STUDIO
+﻿ĐỀ TÀI : XÂY DỰNG PHẦN MỀM QUẢN LÝ CHMT TRÊN VISUAL STUDIO
+Danh sách nhóm
+Thành viên: 
+Dương Thị Thanh Dung ( Trưởng nhóm) 
+Nguyễn Đức Nhã MSSV: 14DC183
+Trần Thị Thanh Tuyền MSSV:14DC096
