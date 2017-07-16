@@ -34,7 +34,7 @@
 <p><h5>Quy tắc Camel:</h5></p> <p>Viết thường từ đầu tiên và viết hoa chữ cái đầu tiên của từ kế tiếp (VD: student, studentDetail,...)</p>
 <p>-Sử dụng cho: Tầm vực biến (Protected/Private), các Tham số (Parameter)</p>
 
-  1.Cách tổ chức và lưu tên file, thư mục
+  <p><h3>3. Cách tổ chức và lưu tên file, thư mục</h3></p>
 
 Quy tắc đối với thư mục :
 
@@ -50,7 +50,8 @@ Quy tắc đối với File và Đặt tên File :
 
 Tên File không sử dụng dấu cách (space), nếu cần thiết sử dụng dấu gạch dưới ( _ )
 
-   2.Cách tổ chức, đặt tên cho Fungction, Class
+  <p><h3> 4.Cách tổ chức, đặt tên cho Fungction, Class</h3></p>
+   
 Có thể đối với một số bạn, trong quá trình này đây là kiến thức khó hiểu, vì bạn chưa có căn bản về function và class, dẫu vậy bạn vẫn nên đọc và lưu ý bài viết này để dành cho sau này khi bạn cần đến trong quá trình học.
 
 Cách tổ chức Function, Class
@@ -69,7 +70,7 @@ Function phải được khai báo sau tất cả mọi xử lý, thông thườ
 
 Function vẫn phải tuân theo phong cách đặt tên và khai báo cơ bản.
 
-   3.Quy tắc đặt tên biến
+   <p><h3>5.Quy tắc đặt tên biến</h3></p>
 Tên biến phải mô tả rõ ràng nội dung nó sẽ đảm nhận.
 
 Tất cả phải viết bằng chữ thường
@@ -80,7 +81,7 @@ Tên biến khai báo có hoặc không cần kiểu dữ liệu (chỉ đối v
 
 Khi khai báo biến phải sử dụng comment để nêu rõ tác dụng và nội dung biến sẽ chứa
 
-   4.Comment trong quá trình viết Code
+  <p><h3>6.Comment trong quá trình viết Code</h3></p>
 Đối với tất cả các loại ngôn ngữ, comment trong quá trình viết code rất quan trọng, nó sẽ mô tả được các thông tin và điều mà người lập trình cần lưu ý đối với người đọc và chỉnh sửa code của họ sau này.
 
 -Comment với tất cả Class, Function, Biến, quá trình xử lý điều kiện nào đó.
