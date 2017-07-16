@@ -178,4 +178,7 @@ Các phiên bản Java đã phát hành:
 <a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117260_1990211431215965_192381787_n.png?oh=6f61033f8be1945fae68418d85fe111c&oe=596DECCD" /></a>
 <h5>Chi tiết hóa đơn</h5>
 <a href="http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117269_1990211471215961_474896369_n.png?oh=cce5b6a6dea7fdc9153c3c5a58fae3d2&oe=596CB998" /></a>
- ![cthd](http://imgur.com/DOki78n"><img src="https://scontent.fdad3-1.fna.fbcdn.net/v/t34.0-12/20117269_1990211471215961_474896369_n.png?oh=cce5b6a6dea7fdc9153c3c5a58fae3d2&oe=596CB998.png)
+ 
+<h5>4.Thiết kế biểu mẫu</h5>
+-	Hóa đơn bán hàng
+<a href="https://user-images.githubusercontent.com/27817852/28237780-2f914d4c-6971-11e7-9488-2a03b0e89635.png" /></a>
