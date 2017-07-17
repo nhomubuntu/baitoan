@@ -24,7 +24,7 @@ cải tiến</p>
 <p>Thuận lợi cho thiết kế
 forms</p>
 <p><h3>MỤC ĐÍNH PHÁT TRIỂN TRONG TƯƠNG LAI:</h3></p>
-<p>Hiện nay thời kì công nghệ tt rất phát triển và có tiềm năng phát triển hơn nữa ;với mục đích nghiên cứu,học tập,đóng góp cho cộng đồng mã nguồn chung ,để có thể hoàn thiện sản phẩm khắc phục lỗi sản phẩm với mục đích hoàn thiện hơn nữa trong tương lai.</p>
+<p>Hiện nay thời kì công nghệ thông tin rất phát triển và có tiềm năng phát triển hơn nữa ;với mục đích nghiên cứu,học tập,đóng góp cho cộng đồng mã nguồn chung ,để có thể hoàn thiện sản phẩm khắc phục lỗi sản phẩm với mục đích hoàn thiện hơn nữa trong tương lai.</p>
 <p><h3>ĐẶC TẢ CHỨC NĂNG:</h3></p>
 <p>Là phần mềm viết bằng ngôn ngữ C# giúp người dùng thuận tiện thao tác rút ngắn thời gian nhập hóa đơn</p>
 <p>Chức năng thêm,sửa,xóa ,Tìm kiếm thông tin cửa hàng</p>
