@@ -23,6 +23,9 @@ của control</p>
 cải tiến</p>
 <p>Thuận lợi cho thiết kế
 forms</p>
+<p><h3>MỤC TIÊU</h3></p>
+<p>-Phần mềm dễ hiểu cho người dùng,dễ phát triển.</p>
+<p>-Phần mềm đẹp mắt thu hút người dùng</p>
 <p><h3>MỤC ĐÍNH PHÁT TRIỂN TRONG TƯƠNG LAI:</h3></p>
 <p>Hiện nay thời kì công nghệ thông tin rất phát triển và có tiềm năng phát triển hơn nữa ;với mục đích nghiên cứu,học tập,đóng góp cho cộng đồng mã nguồn chung ,để có thể hoàn thiện sản phẩm khắc phục lỗi sản phẩm với mục đích hoàn thiện hơn nữa trong tương lai.</p>
 <p><h3>ĐẶC TẢ CHỨC NĂNG:</h3></p>
